@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c0ff9db9-a0ee-4649-8811-7bddfce4e13b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="minubo-hometake-test" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JavaAutoRunManager">
+    <enabled-run-configurations>
+      <run-configuration type="JUnit" name="TestIPv6Test.test_ipv6" />
+      <run-configuration type="JUnit" name="TestIPv6Test" />
+    </enabled-run-configurations>
+  </component>
+  <component name="ProjectId" id="1XoMmzazuvBHSaxAgPVNxRmZfQo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="test" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestIPv6Test">
+    <configuration default="true" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <module name="" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Remote" activateToolWindowBeforeRun="false">
+      <setting name="host" value="" />
+      <setting name="port" value="0" />
+      <setting name="replType" value="SOCKET" />
+      <setting name="configType" value="SPECIFY" />
+      <setting name="fixLineNumbers" value="false" />
+      <module name="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestGroupReduce" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="minubo-hometake-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.TestGroupReduce" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestGroupReduce.reduce_group" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="minubo-hometake-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.TestGroupReduce" />
+      <option name="METHOD_NAME" value="reduce_group" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestIPv6Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="minubo-hometake-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.TestIPv6Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestIPv6Test.reduce_group" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="minubo-hometake-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.TestIPv6Test" />
+      <option name="METHOD_NAME" value="reduce_group" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestIPv6Test.test_ipv6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="minubo-hometake-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.TestIPv6Test" />
+      <option name="METHOD_NAME" value="test_ipv6" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestIPv6Test" />
+        <item itemvalue="JUnit.TestGroupReduce" />
+        <item itemvalue="JUnit.TestGroupReduce.reduce_group" />
+        <item itemvalue="JUnit.TestIPv6Test.reduce_group" />
+        <item itemvalue="JUnit.TestIPv6Test.test_ipv6" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="100" y="123" width="1080" height="509" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1581881574105">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state x="100" y="123" width="1080" height="509" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1280.709@0.23.1280.709" timestamp="1581881574105" />
+    <state x="453" y="100" key="#com.intellij.ide.util.MemberChooser" timestamp="1581710466831">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state x="453" y="100" key="#com.intellij.ide.util.MemberChooser/0.23.1280.709@0.23.1280.709" timestamp="1581710466831" />
+    <state width="1238" height="210" key="GridCell.Tab.0.bottom" timestamp="1581888163192">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1238" height="210" key="GridCell.Tab.0.bottom/0.23.1280.709@0.23.1280.709" timestamp="1581888163192" />
+    <state width="1238" height="210" key="GridCell.Tab.0.center" timestamp="1581888163189">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1238" height="210" key="GridCell.Tab.0.center/0.23.1280.709@0.23.1280.709" timestamp="1581888163189" />
+    <state width="1238" height="210" key="GridCell.Tab.0.left" timestamp="1581888163188">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1238" height="210" key="GridCell.Tab.0.left/0.23.1280.709@0.23.1280.709" timestamp="1581888163188" />
+    <state width="1238" height="210" key="GridCell.Tab.0.right" timestamp="1581888163191">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1238" height="210" key="GridCell.Tab.0.right/0.23.1280.709@0.23.1280.709" timestamp="1581888163191" />
+    <state width="1238" height="80" key="GridCell.Tab.1.bottom" timestamp="1581881712528">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1238" height="80" key="GridCell.Tab.1.bottom/0.23.1280.709@0.23.1280.709" timestamp="1581881712528" />
+    <state width="1238" height="80" key="GridCell.Tab.1.center" timestamp="1581881712526">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1238" height="80" key="GridCell.Tab.1.center/0.23.1280.709@0.23.1280.709" timestamp="1581881712526" />
+    <state width="1238" height="80" key="GridCell.Tab.1.left" timestamp="1581881712526">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1238" height="80" key="GridCell.Tab.1.left/0.23.1280.709@0.23.1280.709" timestamp="1581881712526" />
+    <state width="1238" height="80" key="GridCell.Tab.1.right" timestamp="1581881712527">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1238" height="80" key="GridCell.Tab.1.right/0.23.1280.709@0.23.1280.709" timestamp="1581881712527" />
+    <state x="344" y="278" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1581708890220">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state x="344" y="278" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.23.1280.709@0.23.1280.709" timestamp="1581708890220" />
+    <state x="419" y="111" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1581708907958">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state x="419" y="111" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1280.709@0.23.1280.709" timestamp="1581708907958" />
+    <state x="292" y="56" width="695" height="676" key="search.everywhere.popup" timestamp="1581875441981">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state x="292" y="56" width="695" height="676" key="search.everywhere.popup/0.23.1280.709@0.23.1280.709" timestamp="1581875441981" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/TestGroupReduce.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/task/IPv6.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
